@@ -28,7 +28,7 @@ https://github.com/kunalsharmaranchi/nitisheet
 
 The **official documentation** for Niti Sheet is maintained in the GitHub Documentation repository:
 
-**https://github.com/kunalsharmaranchi/nitisheetmanual**
+**https://github.com/kunalsharmaranchi/nitisheet**
 
 This repository is the **canonical source of information** for:
 
