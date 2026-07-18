@@ -44,3 +44,23 @@ Open [index.html](index.html) in a web browser. Keep the `assets` folder beside 
 ## SEO keywords
 
 Offline spreadsheet software, nested spreadsheet, spreadsheet with child sheets, nested data sheets, spreadsheet data validation, schema-driven forms, desktop spreadsheet app, Niti Sheet, Nested Niti Sheet.
+
+📥 Get Niti Sheet
+
+Download (Microsoft Store)
+https://apps.microsoft.com/detail/9N97CZ181XDR?hl=en-us&gl=IN&ocid=pdpshare
+
+📖 User Manual
+https://nitisheet.nitiware.com/manual
+
+🌐 Website & Support
+https://nitisheet.nitiware.com
+
+💻 GitHub Repository
+https://github.com/kunalsharmaranchi/nitisheet
+
+📚 GitHub Documentation
+https://github.com/kunalsharmaranchi/nitisheetmanual
+
+💬 Reddit Community
+https://www.reddit.com/r/nitisheet/
