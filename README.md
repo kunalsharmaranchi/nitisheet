@@ -3,6 +3,24 @@
 **Repository description:** Niti Sheet is an offline desktop spreadsheet application with Nested Sheets: any cell can contain its own child spreadsheet, structured schema, validation rules, formulas, forms and data tools.
 
 Niti Sheet is designed for users who need more than a flat spreadsheet. Alongside normal cells, formulas, charts and reports, it lets a cell open a complete child spreadsheet called a **Nested Niti Sheet**.
+---
+# 📥 Get Niti Sheet
+
+**Download (Microsoft Store)**
+
+https://apps.microsoft.com/detail/9N97CZ181XDR?hl=en-us&gl=IN&ocid=pdpshare
+
+**📚 Official Documentation**
+
+https://github.com/kunalsharmaranchi/nitisheetmanual
+
+**🌐 Website & Support**
+
+https://nitisheet.nitiware.com
+
+**💻 GitHub Repository**
+
+https://github.com/kunalsharmaranchi/nitisheet
 
 ---
 
@@ -74,23 +92,6 @@ Offline spreadsheet software, nested spreadsheet, spreadsheet with child sheets,
 
 ---
 
-# 📥 Get Niti Sheet
-
-**Download (Microsoft Store)**
-
-https://apps.microsoft.com/detail/9N97CZ181XDR?hl=en-us&gl=IN&ocid=pdpshare
-
-**📚 Official Documentation**
-
-https://github.com/kunalsharmaranchi/nitisheetmanual
-
-**🌐 Website & Support**
-
-https://nitisheet.nitiware.com
-
-**💻 GitHub Repository**
-
-https://github.com/kunalsharmaranchi/nitisheet
 
 **💬 Reddit Community**
 
