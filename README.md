@@ -76,7 +76,7 @@ Open **index.html** in a web browser. Keep the **assets** folder beside the manu
 
 For the latest documentation, tutorials, and feature reference, visit the **Official Documentation** repository:
 
-https://github.com/kunalsharmaranchi/nitisheetmanual
+https://github.com/kunalsharmaranchi/nitisheet/blob/main/manual.md
 
 ## Important feature paths
 
