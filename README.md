@@ -11,8 +11,7 @@ Niti Sheet is designed for users who need more than a flat spreadsheet. Alongsid
 https://apps.microsoft.com/detail/9N97CZ181XDR?hl=en-us&gl=IN&ocid=pdpshare
 
 **📚 Official Documentation**
-
-https://github.com/kunalsharmaranchi/nitisheetmanual
+https://github.com/kunalsharmaranchi/nitisheet/blob/main/manual.md
 
 **🌐 Website & Support**
 
@@ -28,7 +27,7 @@ https://github.com/kunalsharmaranchi/nitisheet
 
 The **official documentation** for Niti Sheet is maintained in the GitHub Documentation repository:
 
-**https://github.com/kunalsharmaranchi/nitisheet**
+*https://github.com/kunalsharmaranchi/nitisheet/blob/main/manual.md*
 
 This repository is the **canonical source of information** for:
 
